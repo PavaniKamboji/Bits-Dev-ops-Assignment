@@ -9,10 +9,10 @@ int main() {
     }
     number=num%2;
     if(number==0) {
-        printf("entered number is even number");
+        printf("even");
     }
     else {
-        printf("entered number is odd number");
+        printf("odd");
     }
     return 0;
 }
