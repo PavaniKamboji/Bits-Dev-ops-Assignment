@@ -8,6 +8,7 @@ int main() {
         return 0;
     }
     number=num%2;
+    
     if(number==0) {
         printf("the number entered is %d and it's a even number",num);
     }
